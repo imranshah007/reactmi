@@ -1,0 +1,54 @@
+
+
+
+.textarea{
+  width: 90vw;
+  height:200px;
+  margin-left: 50px;
+
+  
+}
+/* .btn{
+  text-align: center;
+} */
+/* .btn{
+  margin-right: 1rem;
+} */
+button{
+  background-color: blue;
+  /* margin-left: 50rem; */
+  /* border: 5px solid green!important; */
+  margin-right: 50px!important;
+  justify-content: space-between!important;
+  border: none;
+  color: white;
+  
+  
+}
+.btn{
+  /* border: 2px solid yellow!important; */
+  margin-left: 50px;
+}
+.Dark{
+  background-color: black;
+  color: white;
+}
+.White{
+  background-color: white;
+  color: black;
+}
+
+.heading{
+  display: flex;
+  flex-direction: column;
+  /* border: 2px solid red ; */
+  display:inline-block;
+  margin-left: 50px;
+}
+.summary{
+margin: 10px 30px;
+}
+.preview{
+  margin: 10px 30px;
+}
+
