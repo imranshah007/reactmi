@@ -19,14 +19,14 @@ const Body = () => {
   }
   
   const UpperCase = () => {
-    // console.log("sai");
+    
     let preview3 = preview.toUpperCase();
     setPreview(preview3)
     // console.log(preview3)
     setClick(true)
   }
   const LowerCase = () => {
-    // console.log("sai");
+   
     let preview3 = preview.toLowerCase();
     setPreview(preview3)
     // console.log(preview3)
@@ -36,9 +36,7 @@ const Body = () => {
     console.log(textarea)
     textarea.current = " ";
     textarea.value = " "
-    // setPreview(" ");
-    // console.log(preview);
-    // setClick(false);
+   
   }
   const remove_spaces = () => {
     const preview4 = preview.split("  ");
